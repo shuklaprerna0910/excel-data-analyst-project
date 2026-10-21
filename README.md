@@ -1,6 +1,7 @@
 Excel Data Analysis Project
 
 Overview
+
 This is a beginner-level Excel project completed as part of my Data Analytics learning journey, following an Alex The Analyst tutorial.
 
 Objectives
